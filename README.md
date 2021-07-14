@@ -4,6 +4,6 @@ _created by Austin Poor_
 
 ![A GIF of Samwise Gamgee from LoTR](./etc/gamgee.gif)
 
-Let `samwise` help you get started quickly building AWS SAM APIs.
+Let `samwise` help you get started quickly building [AWS SAM](https://aws.amazon.com/serverless/sam) APIs.
 
 
